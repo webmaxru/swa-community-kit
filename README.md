@@ -48,3 +48,7 @@ We have curated a list of community apps that you can refer to as live examples 
 
 [Static Web Apps Examples Gallery](https://github.com/microsoft/static-web-apps-gallery-code-samples)
 
+### Learn and receive Azure Heroes digital badges
+
+Join the Cloud Skills Challenge with the modules about Azure Static Web Apps, complete the learning journey, and claim your Azure Heroes digital badge: https://aka.ms/swa-challenge
+
